@@ -1,4 +1,4 @@
-= 👨‍🚀 Tamburlaine (Marlow JS Library)
+= 👨‍🚀 Tamburlaine
 
 A TypeScript first library for writing Cardano Marlowe Smart Contracts.
 
@@ -7,7 +7,6 @@ A TypeScript first library for writing Cardano Marlowe Smart Contracts.
 The goal of this library is to provide types and helper functions for creating Marlowe smart contracts with TypeScript.
 
 Types are sourced from the official https://github.com/input-output-hk/plutus/blob/master/marlowe-playground-client/src/Language/Javascript/MarloweJS.ts[Marrowe Playground Github repository].
-All Type schemas are validated by the https://github.com/colinhacks/zod[Zod library].
 
 == 🧪 Feedback & Ideas
 
